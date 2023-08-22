@@ -1,0 +1,12 @@
+# NAME: VRChat-Download
+payload:
+  # 文件下载
+  - DOMAIN-SUFFIX, files.vrchat.cloud
+  # 通信
+  - DOMAIN-SUFFIX, pipeline.vrchat.cloud
+
+  # 其他未确定接口
+  - DOMAIN-SUFFIX, vrchat.cloud
+  # 官网
+  - DOMAIN-SUFFIX, vrchat.com
+  
