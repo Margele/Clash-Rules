@@ -1,4 +1,4 @@
-# NAME: VRChat-Games
+# NAME: VRChat-Game
 payload:
   # 登录\社交接口
   - DOMAIN-SUFFIX,api.vrchat.cloud
