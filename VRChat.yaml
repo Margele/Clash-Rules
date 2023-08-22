@@ -1,0 +1,22 @@
+# NAME: VRChat
+payload:
+  # 文件下载
+  - DOMAIN-SUFFIX, files.vrchat.cloud
+  # 通信
+  - DOMAIN-SUFFIX, pipeline.vrchat.cloud
+  # 登录\社交接口
+  - DOMAIN-SUFFIX, api.vrchat.cloud
+  # 其他未确定接口
+  - DOMAIN-SUFFIX, vrchat.cloud
+  # 官网
+  - DOMAIN-SUFFIX, vrchat.com
+  # 防漏网之鱼
+  - DOMAIN-KEYWORD, vrchat
+
+  # 游戏内 (UDP)
+  - IP-CIDR, 91.199.81.0/24
+  - IP-CIDR, 216.120.180.0/23
+  - DOMAIN-SUFFIX, ns.photonengine.io
+  
+  # 进程名判断
+  - PROCESS-NAME, vrchat.exe
