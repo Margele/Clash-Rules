@@ -4,6 +4,10 @@ payload:
   - DOMAIN-SUFFIX,api.vrchat.cloud
   
   # 游戏内 (UDP)
+  - DST-PORT,5055
+  - DST-PORT,5056
+  - DST-PORT,5057
+  - DST-PORT,5058
   - IP-CIDR,91.199.81.0/24
   - IP-CIDR,216.120.180.0/23
   - DOMAIN-SUFFIX,ns.photonengine.io
