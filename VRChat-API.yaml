@@ -1,0 +1,9 @@
+# NAME: VRChat-API
+payload:  
+  # 登录\社交接口
+  - DOMAIN-SUFFIX,api.vrchat.cloud
+  # 其他未确定接口
+  - DOMAIN-SUFFIX,vrchat.cloud
+  # 官网
+  - DOMAIN-SUFFIX,vrchat.com
+  
