@@ -1,8 +1,5 @@
 # NAME: VRChat-Game
 payload:
-  # 登录\社交接口
-  - DOMAIN-SUFFIX,api.vrchat.cloud
-  
   # 游戏内 (UDP)
   - IP-CIDR,91.199.81.0/24
   - IP-CIDR,216.120.180.0/23
